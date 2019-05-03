@@ -1,4 +1,4 @@
-public class DebugMusical extends DebugPlay
+public class DebugMusical extends FixDebugPlay
 {
    protected String composer;
    
@@ -9,8 +9,8 @@ public class DebugMusical extends DebugPlay
    }
    public void display()
    {
-      System.out.println("The performance is  + title +
-        " by " + author + "\nThe music for " + title 
+      System.out.println("The performance is"  + title +
+        " by " + author + "\nThe music for " + title +
         " is by " + composer);
    }
 }

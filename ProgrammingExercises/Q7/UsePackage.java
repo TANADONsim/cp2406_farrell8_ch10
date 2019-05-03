@@ -1,4 +1,4 @@
-package Q2;
+package Q7;
 
 public class UsePackage
 {

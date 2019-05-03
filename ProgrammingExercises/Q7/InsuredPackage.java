@@ -1,4 +1,4 @@
-package Q2;
+package Q7;
 
 import javax.swing.JOptionPane;
 import java.text.DecimalFormat;
